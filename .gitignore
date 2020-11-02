@@ -4,6 +4,7 @@
 /node_modules
 /components/node_modules
 /basic/node_modules
+/seasons/node_modules
 /.pnp
 .pnp.js
 
